@@ -1,0 +1,45 @@
+body {
+    background: #000B2E;
+    font-size: 60px;
+    color: aliceblue;      
+}
+
+img.border-o {
+  border: 5px solid darkorange;
+}
+
+img.border-b {
+    filter: brightness(1.9) contrast(1.2)
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 8px 8px grey inset;
+}
+
+p {
+    font-size:24px;
+}
+
+h1 {
+    text-shadow: 0 0 3px #FFFFFF, 0 0 5px #0000FF;
+    font-size: 70px;
+    font-family: 'Anton', sans-serif;
+
+}
+
+h2 {
+    text-shadow: 0 0 10px #FF0000, 0 0 5px #0000FF;
+}
+
+table {
+  width: 1000px;
+  border = "0"
+  
+}
+
+table {align: "center"}
+table {border-collapse:collapse}
+
+
+td {
+  width: 25% ;
+  background-color: #000B2E;
+}
