@@ -1,0 +1,1220 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.10.31" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/basketball_hoop.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">ff27c0ae6f58595e739ba0361d0af548</property>
+    <property name="creation_time">2021-11-28T00:16:53</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/Sheryl_Swoopes_WNBA.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">9887935d9ad25ccd2d6319c9615c8cff</property>
+    <property name="creation_time">2021-11-30T04:49:28</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/slam_dunk.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">debc0ac894452043b5b1917f4ff8e29f</property>
+    <property name="creation_time">2021-11-30T03:17:42</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">slam_dunk.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_floor.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6960dd401a11f0f71c1c0e0d505f1dc7</property>
+    <property name="creation_time">2021-11-30T04:59:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">WNBA_floor.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_logo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">00ca5b76d74c735c1d251fdad75f5b75</property>
+    <property name="creation_time">2021-12-03T18:16:44</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_uniforms.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">25089cc7a4031150a972f179459d691d</property>
+    <property name="creation_time">2021-11-30T04:54:54</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/basketball_background.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-11-22T04:26:41</property>
+    <property name="shotcut:caption">basketball_background.jpg</property>
+    <property name="shotcut:hash">0bcded29970ba58942ebded820b3554a</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_floor.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6960dd401a11f0f71c1c0e0d505f1dc7</property>
+    <property name="creation_time">2021-11-30T04:59:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">WNBA_floor.jpg</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Seattle_Storm.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:25:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7965e2747795413577bf2980abed06d9</property>
+    <property name="shotcut:caption">WNBA_Seattle_Storm.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Minnesota_Lynx.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:33:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8dfae716a04e55fae579fde452949077</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_LA_Sparks.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:47:40</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a72e6f4160c33556add1faacfdae5e9a</property>
+  </producer>
+  <chain id="chain0" out="00:04:04.480">
+    <property name="length">00:04:04.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Downloads/bensound-goinghigher.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6b8c7cd58019fa8ba77a6f9e22a5a5d2</property>
+  </chain>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Huston_Comets.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:43:42</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0574107b09396abb2f6aaf6d3e1616e9</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Indiana_Fever.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:57:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c49d70fd9215a9487654cd35a1a12ec1</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Detroit_Shock.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:55:27</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">890f9272afe08795631bd150f356185b</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Phoenix_Murcury.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:51:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">147c5805718673db2a724bec58711e46</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.10.31">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain0" in="00:00:00.000" out="00:04:04.480"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:23.800">
+    <property name="length">00:00:23.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:23.800"/>
+  </playlist>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_floor.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">6960dd401a11f0f71c1c0e0d505f1dc7</property>
+    <property name="creation_time">2021-11-30T04:59:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">WNBA_floor.jpg</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter0" out="00:00:03.240">
+      <property name="argument">abaltean</property>
+      <property name="geometry">1385 -12 520 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter1" out="00:00:03.240">
+      <property name="argument">presenting...</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter2" out="00:00:03.240">
+      <property name="start">1</property>
+      <property name="level">00:00:03.000=1;00:00:03.240=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter3" out="00:00:03.240">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter4" out="00:00:03.240">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0=-60;6=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter5" out="00:00:03.240">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:03.000=0;00:00:03.240=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_logo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">00ca5b76d74c735c1d251fdad75f5b75</property>
+    <property name="creation_time">2021-12-03T18:16:44</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">WNBA_logo.png</property>
+    <filter id="filter6" out="00:00:02.560">
+      <property name="argument">the</property>
+      <property name="geometry">1303 39 598 321 1</property>
+      <property name="family">Yu Gothic Light</property>
+      <property name="size">1080</property>
+      <property name="weight">250</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter7" out="00:00:02.560">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter8" out="00:00:02.560">
+      <property name="start">1</property>
+      <property name="level">00:00:01.800=1;00:00:02.560=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">20</property>
+    </filter>
+    <filter id="filter9" out="00:00:02.560">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.800=0;00:00:02.560=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">20</property>
+    </filter>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_uniforms.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">25089cc7a4031150a972f179459d691d</property>
+    <property name="creation_time">2021-11-30T04:54:54</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">WNBA_uniforms.jpg</property>
+    <filter id="filter10" out="00:00:03.000">
+      <property name="argument">the teams</property>
+      <property name="geometry">38 33 1224 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter11" out="00:00:03.000">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.640=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">17</property>
+    </filter>
+    <filter id="filter12" out="00:00:03.000">
+      <property name="start">1</property>
+      <property name="level">00:00:02.440=1;00:00:03.000=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">15</property>
+    </filter>
+    <filter id="filter13" out="00:00:03.000">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.640=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">17</property>
+    </filter>
+    <filter id="filter14" out="00:00:03.000">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:02.440=0;00:00:03.000=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">15</property>
+    </filter>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Seattle_Storm.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:25:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7965e2747795413577bf2980abed06d9</property>
+    <property name="shotcut:caption">WNBA_Seattle_Storm.jpg</property>
+    <filter id="filter15" out="00:00:01.480">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter16" out="00:00:01.480">
+      <property name="argument">Seattle Storm</property>
+      <property name="geometry">0 0 1920 1082 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#005500</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter17" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.480=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">13</property>
+    </filter>
+    <filter id="filter18" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:01.000=1;00:00:01.480=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">13</property>
+    </filter>
+    <filter id="filter19" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.000=0;00:00:01.480=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">13</property>
+    </filter>
+    <filter id="filter20" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.480=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">13</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Minnesota_Lynx.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:33:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8dfae716a04e55fae579fde452949077</property>
+    <property name="shotcut:caption">WNBA_Minnesota_Lynx.jpg</property>
+    <filter id="filter21" out="00:00:01.520">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter22" out="00:00:01.520">
+      <property name="argument">Minnesota Lynx</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#00007f</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter23" out="00:00:01.520">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">8</property>
+    </filter>
+    <filter id="filter24" out="00:00:01.520">
+      <property name="start">1</property>
+      <property name="level">00:00:01.240=1;00:00:01.520=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">8</property>
+    </filter>
+    <filter id="filter25" out="00:00:01.520">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.280=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">8</property>
+    </filter>
+    <filter id="filter26" out="00:00:01.520">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.240=0;00:00:01.520=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">8</property>
+    </filter>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Huston_Comets.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:43:42</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0574107b09396abb2f6aaf6d3e1616e9</property>
+    <property name="shotcut:caption">WNBA_Huston_Comets.jpg</property>
+    <filter id="filter27" out="00:00:01.480">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter28" out="00:00:01.480">
+      <property name="argument">Huston Comets</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#aa0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter29" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.240=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter30" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:01.240=1;00:00:01.480=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter31" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.240=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter32" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.240=0;00:00:01.480=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_LA_Sparks.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:47:40</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a72e6f4160c33556add1faacfdae5e9a</property>
+    <property name="shotcut:caption">WNBA_LA_Sparks.jpg</property>
+    <filter id="filter33" out="00:00:01.520">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter34" out="00:00:01.520">
+      <property name="argument">Los Angeles Sparks</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffd849</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter35" out="00:00:01.520">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.320=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">9</property>
+    </filter>
+    <filter id="filter36" out="00:00:01.520">
+      <property name="start">1</property>
+      <property name="level">00:00:01.160=1;00:00:01.520=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">10</property>
+    </filter>
+    <filter id="filter37" out="00:00:01.520">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.320=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">9</property>
+    </filter>
+    <filter id="filter38" out="00:00:01.520">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.160=0;00:00:01.520=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">10</property>
+    </filter>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Phoenix_Murcury.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:51:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">147c5805718673db2a724bec58711e46</property>
+    <property name="shotcut:caption">WNBA_Phoenix_Murcury.jpeg</property>
+    <filter id="filter39" out="00:00:01.400">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter40" out="00:00:01.400">
+      <property name="argument">Phoenix Mercury</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#550000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter41" out="00:00:01.400">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.240=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter42" out="00:00:01.400">
+      <property name="start">1</property>
+      <property name="level">00:00:01.160=1;00:00:01.400=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter43" out="00:00:01.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0=-60;6=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter44" out="00:00:01.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.160=0;00:00:01.400=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Detroit_Shock.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:55:27</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">890f9272afe08795631bd150f356185b</property>
+    <property name="shotcut:caption">WNBA_Detroit_Shock.jpg</property>
+    <filter id="filter45" out="00:00:01.200">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter46" out="00:00:01.200">
+      <property name="argument">Detroit Shock</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter47" out="00:00:01.200">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.240=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter48" out="00:00:01.200">
+      <property name="start">1</property>
+      <property name="level">00:00:00.960=1;00:00:01.200=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter49" out="00:00:01.200">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.240=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter50" out="00:00:01.200">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.960=0;00:00:01.200=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/WNBA_Indiana_Fever.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-12-03T19:57:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c49d70fd9215a9487654cd35a1a12ec1</property>
+    <property name="shotcut:caption">WNBA_Indiana_Fever.jpeg</property>
+    <filter id="filter51" out="00:00:01.480">
+      <property name="rect">0%/0%:100%x100%</property>
+      <property name="circle">1</property>
+      <property name="color">#ff000000</property>
+      <property name="radius">0.5</property>
+      <property name="mlt_service">qtcrop</property>
+      <property name="shotcut:filter">cropCircle</property>
+    </filter>
+    <filter id="filter52" out="00:00:01.480">
+      <property name="argument">Indiana Fever</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffff7f</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter53" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.240=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter54" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">00:00:01.240=1;00:00:01.480=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter55" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0=-60;6=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter56" out="00:00:01.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.240=0;00:00:01.480=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/slam_dunk.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">debc0ac894452043b5b1917f4ff8e29f</property>
+    <property name="creation_time">2021-11-30T03:17:42</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">slam_dunk.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter57" out="00:00:01.680">
+      <property name="argument">Other Current Teams:
+Atlanta Dream
+Chicago Sky
+Conneticut Sun
+New York Liberty
+Washington Mystics
+Dallas wings
+Las Vegas Aces</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">135</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#aa0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter58" out="00:00:01.680">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.240=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter59" out="00:00:01.680">
+      <property name="start">1</property>
+      <property name="level">00:00:01.440=1;00:00:01.680=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+    <filter id="filter60" out="00:00:01.680">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0=-60;6=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">7</property>
+    </filter>
+    <filter id="filter61" out="00:00:01.680">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:01.440=0;00:00:01.680=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">7</property>
+    </filter>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Documents/GitHub/sports_website/major/images/slam_dunk.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">debc0ac894452043b5b1917f4ff8e29f</property>
+    <property name="creation_time">2021-11-30T03:17:42</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">slam_dunk.jpg</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter62" in="00:00:01.720" out="00:00:04.480">
+      <property name="argument">Music: https://www.bensound.com</property>
+      <property name="geometry">818 0 1089 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter63" in="00:00:01.720" out="00:00:04.480">
+      <property name="argument">Thank you !</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Tw Cen MT Condensed Extra Bold</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#55aa7f</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter64" in="00:00:01.720" out="00:00:04.480">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.200=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">6</property>
+    </filter>
+    <filter id="filter65" in="00:00:01.720" out="00:00:04.480">
+      <property name="start">1</property>
+      <property name="level">00:00:01.800=1;00:00:02.760=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+    <filter id="filter66" in="00:00:01.720" out="00:00:04.480">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.200=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">6</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:03.240"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:02.560"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.000"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:01.480"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:01.520"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:01.480"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:01.520"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:01.400"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:01.200"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:01.480"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:01.680"/>
+    <entry producer="producer26" in="00:00:01.720" out="00:00:04.480"/>
+  </playlist>
+  <chain id="chain1" out="00:04:04.480">
+    <property name="length">00:04:04.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Amazia/Downloads/bensound-goinghigher.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6b8c7cd58019fa8ba77a6f9e22a5a5d2</property>
+    <property name="shotcut:caption">bensound-goinghigher.mp3</property>
+    <filter id="filter67" out="00:00:23.800">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter68" out="00:00:23.800">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:21.680=0;00:00:23.800=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">54</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:23.800"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.10.31" in="00:00:00.000" out="00:00:23.800">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">6.31513</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

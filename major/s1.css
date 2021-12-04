@@ -1,8 +1,10 @@
 body {
     background: #000B2E;
     font-size: 60px;
-    color: aliceblue;      
+    color: aliceblue;     
+    font-family: 'IBM Plex Serif', serif;
 }
+
 
 img.border-o {
   border: 5px solid darkorange;
@@ -14,7 +16,7 @@ img.border-b {
     box-shadow: 0 0 8px 8px grey inset;
 }
 
-p {
+p, li {
     font-size:24px;
 }
 
@@ -22,17 +24,19 @@ h1 {
     text-shadow: 0 0 3px #FFFFFF, 0 0 5px #0000FF;
     font-size: 70px;
     font-family: 'Anton', sans-serif;
-
 }
 
-h2 {
-    text-shadow: 0 0 10px #FF0000, 0 0 5px #0000FF;
-}
 
+/* tables */
 table {
   width: 1000px;
   border = "0"
   
+}
+
+td.fancyBorder{
+    background: orange;
+    border: 5px solid darkorange;
 }
 
 table {align: "center"}
@@ -42,4 +46,30 @@ table {border-collapse:collapse}
 td {
   width: 25% ;
   background-color: #000B2E;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap: break-word;
+}
+
+
+/*links*/
+
+/* unvisited link */
+a:link {
+  color: salmon;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: sandybrown;
 }
